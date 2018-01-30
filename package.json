@@ -1,0 +1,28 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calc.js",
+  "dependencies": {
+    "event": "^1.0.0",
+    "moment": "^2.20.1",
+    "nconf": "^0.10.0",
+    "winston": "^2.4.0",
+    "winston-daily-rotate-file": "^1.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KyoungJi/20180124.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KyoungJi/20180124/issues"
+  },
+  "homepage": "https://github.com/KyoungJi/20180124#readme"
+}
